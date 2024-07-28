@@ -9,14 +9,18 @@ the place where my creativity and dreams become true.
 The initial idea of this project was to learn the very basic parts of developing a website using technologies such as:
 
 **Back-end (C#)**
-- ASP.NET (for the core)
-- MySQL (for the database)
-- Swagger (for the API's documentation)
-- xUnit (for the API's testing)
+- [C#](https://dotnet.microsoft.com/languages/csharp) _(the main programming language)_
+- [.NET](https://dotnet.microsoft.com/) _(for the compiler)_
+- [ASP.NET](https://asp.net/) _(for the core)_
+- [MySQL](https://www.mysql.com/) _(for the database)_
+- [Swagger](https://swagger.io/) _(for the API's documentation)_
+- [xUnit](https://xunit.net/) _(for the API's testing)_
 
 **Front-end (TypeScript)**
-- Next.js (for the core)
-- React.js (for the rendering)
-- Axios (for the connection with the back-end)
+- [TypeScript](https://www.typescriptlang.org/) _(the main programming language)_
+- [Node.js](https://nodejs.org/) _(for the runtime)_
+- [Next.js](https://nextjs.org/) _(for the core)_
+- [React](https://react.dev/) _(for the rendering)_
+- [Axios](https://axios-http.com/docs/intro) _(for the HTTP's requests)_
   
 [Check it out!](https://github.com/ryaangu/portfolio/tree/main/to-do)
