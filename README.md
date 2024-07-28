@@ -19,4 +19,4 @@ The initial idea of this project was to learn the very basic parts of developing
 - React.js (for the rendering)
 - Axios (for the connection with the back-end)
   
-[Check it out!]()
+[Check it out!](https://github.com/ryaangu/portfolio/tree/main/to-do)
