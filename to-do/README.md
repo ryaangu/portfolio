@@ -1,7 +1,7 @@
 # 🤓 T(o-d)o — A simple To-do list project inspired by [Trello](https://trello.com/)
 The initial idea of this project was to learn the very basic parts of developing a website using technologies such as:
 
-**Back-end (C#)**
+**Back-end**
 - [C#](https://dotnet.microsoft.com/languages/csharp) _(the main programming language)_
 - [.NET](https://dotnet.microsoft.com/) _(for the compiler)_
 - [ASP.NET](https://asp.net/) _(for the core)_
@@ -9,7 +9,7 @@ The initial idea of this project was to learn the very basic parts of developing
 - [Swagger](https://swagger.io/) _(for the API's documentation)_
 - [xUnit](https://xunit.net/) _(for the API's testing)_
 
-**Front-end (TypeScript)**
+**Front-end**
 - [TypeScript](https://www.typescriptlang.org/) _(the main programming language)_
 - [Node.js](https://nodejs.org/) _(for the runtime)_
 - [Next.js](https://nextjs.org/) _(for the core)_
